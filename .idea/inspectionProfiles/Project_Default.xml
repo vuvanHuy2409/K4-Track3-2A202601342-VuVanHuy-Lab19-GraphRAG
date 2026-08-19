@@ -1,0 +1,37 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="ConstantConditionalExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="azure-cognitiveservices-speech" />
+          <option value="pydub" />
+          <option value="srt" />
+          <option value="yt-dlp" />
+          <option value="playwright" />
+          <option value="python-dotenv" />
+          <option value="requests" />
+          <option value="openpyxl" />
+          <option value="google-genai" />
+          <option value="Pillow" />
+          <option value="demucs" />
+          <option value="soundfile" />
+          <option value="pytest" />
+          <option value="sqlalchemy" />
+          <option value="alembic" />
+          <option value="psycopg" />
+          <option value="zep-cloud" />
+          <option value="langgraph" />
+          <option value="redis" />
+          <option value="qdrant-client" />
+          <option value="scikit-learn" />
+          <option value="pydantic" />
+          <option value="rich" />
+          <option value="typer" />
+          <option value="streamlit" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
